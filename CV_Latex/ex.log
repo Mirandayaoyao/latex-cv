@@ -1,0 +1,483 @@
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2016.5.3)  10 FEB 2017 13:09
+ restricted \write18 enabled.
+**ex.tex
+(./ex.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+! Undefined control sequence.
+l.1 \cvsection
+            {Extracurricular Activities}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \cvsection{E
+              xtracurricular Activities}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Environment cventries undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{cventries}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.3   \cventry
+            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9       \begin{cvitems}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--10
+[][]Extracurricular
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10         \item{
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13         \item{
+                 \textbf{Internship in Caixin Media, Beijing}\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (14.58325pt too wide) in paragraph at lines 13--17
+\OT1/cmr/bx/n/10 In-
+ []
+
+
+Overfull \hbox (24.70128pt too wide) in paragraph at lines 13--17
+\OT1/cmr/bx/n/10 tern-
+ []
+
+
+Overfull \hbox (20.50821pt too wide) in paragraph at lines 13--17
+\OT1/cmr/bx/n/10 ship
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 13--17
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (32.74286pt too wide) in paragraph at lines 13--17
+\OT1/cmr/bx/n/10 Caixin
+ []
+
+
+Overfull \hbox (20.02074pt too wide) in paragraph at lines 13--17
+\OT1/cmr/bx/n/10 Me-
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 13--17
+\OT1/cmr/bx/n/10 dia,
+ []
+
+
+Overfull \hbox (20.47906pt too wide) in paragraph at lines 13--17
+\OT1/cmr/bx/n/10 Bei-
+ []
+
+
+Overfull \hbox (19.00685pt too wide) in paragraph at lines 13--17
+\OT1/cmr/bx/n/10 jing 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17         \item{
+                 \textbf{Leadership in Youth Communications Workshop, ChangC...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.99983pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 Lead-
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 er-
+ []
+
+
+Overfull \hbox (20.50821pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 ship
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (30.73595pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 Youth
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 Com-
+ []
+
+
+Overfull \hbox (19.48601pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 mu-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 ni-
+ []
+
+
+Overfull \hbox (14.53462pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 ca-
+ []
+
+
+Overfull \hbox (24.34152pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 tions
+ []
+
+
+Overfull \hbox (31.31929pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 Work-
+ []
+
+
+Overfull \hbox (26.25818pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 shop,
+ []
+
+
+Overfull \hbox (59.57605pt too wide) in paragraph at lines 17--22
+\OT1/cmr/bx/n/10 ChangChun 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22         \item{
+                 \textbf{Leadership in Cross-strait Workshop, Nanjing}\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (27.99983pt too wide) in paragraph at lines 22--26
+\OT1/cmr/bx/n/10 Lead-
+ []
+
+
+Overfull \hbox (13.84023pt too wide) in paragraph at lines 22--26
+\OT1/cmr/bx/n/10 er-
+ []
+
+
+Overfull \hbox (20.50821pt too wide) in paragraph at lines 22--26
+\OT1/cmr/bx/n/10 ship
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 22--26
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (31.69704pt too wide) in paragraph at lines 22--26
+\OT1/cmr/bx/n/10 Cross-
+ []
+
+
+Overfull \hbox (27.00122pt too wide) in paragraph at lines 22--26
+\OT1/cmr/bx/n/10 strait
+ []
+
+
+Overfull \hbox (31.31929pt too wide) in paragraph at lines 22--26
+\OT1/cmr/bx/n/10 Work-
+ []
+
+
+Overfull \hbox (26.25818pt too wide) in paragraph at lines 22--26
+\OT1/cmr/bx/n/10 shop,
+ []
+
+
+Overfull \hbox (24.81235pt too wide) in paragraph at lines 22--26
+\OT1/cmr/bx/n/10 Nan-
+ []
+
+
+Overfull \hbox (19.00685pt too wide) in paragraph at lines 22--26
+\OT1/cmr/bx/n/10 jing 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26         \item{
+                 \textbf{Director of the Eastern, V-Teaching } \\ %%
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (15.84714pt too wide) in paragraph at lines 26--31
+\OT1/cmr/bx/n/10 Di-
+ []
+
+
+Overfull \hbox (18.95131pt too wide) in paragraph at lines 26--31
+\OT1/cmr/bx/n/10 rec-
+ []
+
+
+Overfull \hbox (14.95827pt too wide) in paragraph at lines 26--31
+\OT1/cmr/bx/n/10 tor
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 26--31
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 26--31
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (25.98732pt too wide) in paragraph at lines 26--31
+\OT1/cmr/bx/n/10 East-
+ []
+
+
+Overfull \hbox (19.5902pt too wide) in paragraph at lines 26--31
+\OT1/cmr/bx/n/10 ern,
+ []
+
+
+Overfull \hbox (12.52771pt too wide) in paragraph at lines 26--31
+\OT1/cmr/bx/n/10 V-
+ []
+
+
+Overfull \hbox (44.41641pt too wide) in paragraph at lines 26--31
+\OT1/cmr/bx/n/10 Teaching
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31         \item{
+                 \textbf{Volunteer of the First Female Sociologist Academic ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.51378pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 Vol-
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 un-
+ []
+
+
+Overfull \hbox (19.74992pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 teer
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (16.13187pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 the
+ []
+
+
+Overfull \hbox (24.17487pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 First
+ []
+
+
+Overfull \hbox (15.38187pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 Fe-
+ []
+
+
+Overfull \hbox (23.63875pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 male
+ []
+
+
+Overfull \hbox (15.97214pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 So-
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 ci-
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 ol-
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 o-
+ []
+
+
+Overfull \hbox (17.95267pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 gist
+ []
+
+
+Overfull \hbox (23.22902pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 Aca-
+ []
+
+
+Overfull \hbox (29.54846pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 demic
+ []
+
+
+Overfull \hbox (15.86102pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 Fo-
+ []
+
+
+Overfull \hbox (23.90266pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 rum,
+ []
+
+
+Overfull \hbox (24.81235pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 Nan-
+ []
+
+
+Overfull \hbox (19.00685pt too wide) in paragraph at lines 31--35
+\OT1/cmr/bx/n/10 jing 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{cventries}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \end{cventries}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ex.tex
+       
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 14 strings out of 494693
+ 100000,89155 words of node,token memory allocated 9602 words of node memory still in use:
+   90 hlist, 30 disc, 344 glue, 15 kern, 75 penalty, 1062 glyph, 84 glue_spec, 7
+ local_par, 1 dir nodes
+   avail lists: 1:1,2:12,3:1,4:1,5:2,6:1,7:60,10:13
+ 3868 multiletter control sequences out of 65536+600000
+ 15 fonts using 601983 bytes
+ 13i,1n,10p,185b,92s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!

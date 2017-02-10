@@ -1,0 +1,935 @@
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.10.3)  3 FEB 2017 16:07
+ restricted system commands enabled.
+**research_experience.tex
+(./research_experience.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
+! Undefined control sequence.
+l.2 \cvsection
+            {Research Experience}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \cvsection{R
+              esearch Experience}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Environment cventries undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{cventries}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.4   \cventry
+            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10       \begin{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--11
+[]Research
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11       	\item{
+                \textbf{Regional Planning of PuJiang, Chengdu & Pinling}\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+<argument> Regional Planning of PuJiang, Chengdu &
+                                        Pinling
+l.11 ...onal Planning of PuJiang, Chengdu & Pinling}
+                                                  \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (17.72908pt too wide) in paragraph at lines 11--17
+\OT1/cmr/bx/n/10 Re-
+ []
+
+
+Overfull \hbox (29.86787pt too wide) in paragraph at lines 11--17
+\OT1/cmr/bx/n/10 gional
+ []
+
+
+Overfull \hbox (26.86789pt too wide) in paragraph at lines 11--17
+\OT1/cmr/bx/n/10 Plan-
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 11--17
+\OT1/cmr/bx/n/10 ning
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 11--17
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (18.08324pt too wide) in paragraph at lines 11--17
+\OT1/cmr/bx/n/10 Pu-
+ []
+
+
+Overfull \hbox (30.06232pt too wide) in paragraph at lines 11--17
+\OT1/cmr/bx/n/10 Jiang,
+ []
+
+
+Overfull \hbox (44.88171pt too wide) in paragraph at lines 11--17
+\OT1/cmr/bx/n/10 Chengdu
+ []
+
+
+Overfull \hbox (21.27766pt too wide) in paragraph at lines 11--17
+\OT1/cmr/bx/n/10 Pin-
+ []
+
+
+Overfull \hbox (18.68741pt too wide) in paragraph at lines 11--17
+\OT1/cmr/bx/n/10 ling 
+ []
+
+! Undefined control sequence.
+l.18   \cventry
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22     {M
+         ar. 2013 - June. 2013}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24       \begin{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 22--25
+[]Mar.
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25         \item{
+                  \textbf{Culture Heritage Reservation of Train Fix Factory ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 Cul-
+ []
+
+
+Overfull \hbox (20.86797pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 ture
+ []
+
+
+Overfull \hbox (22.84018pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 Her-
+ []
+
+
+Overfull \hbox (24.27763pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 itage
+ []
+
+
+Overfull \hbox (32.27206pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 Reser-
+ []
+
+
+Overfull \hbox (14.85406pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 va-
+ []
+
+
+Overfull \hbox (19.80545pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 tion
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (26.95123pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 Train
+ []
+
+
+Overfull \hbox (16.49991pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 Fix
+ []
+
+
+Overfull \hbox (20.81236pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 Fac-
+ []
+
+
+Overfull \hbox (21.02768pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 tory
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (34.19424pt too wide) in paragraph at lines 25--29
+\OT1/cmr/bx/n/10 Taipei. 
+ []
+
+! Undefined control sequence.
+l.30     \cventry
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34     {A
+         pr. 2014 - June. 2014}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36       \begin{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 34--37
+[]Apr.
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37         \item{
+                 \textbf{Reform of NTU-BP Building }\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (17.72908pt too wide) in paragraph at lines 37--42
+\OT1/cmr/bx/n/10 Re-
+ []
+
+
+Overfull \hbox (23.58322pt too wide) in paragraph at lines 37--42
+\OT1/cmr/bx/n/10 form
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 37--42
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (29.68039pt too wide) in paragraph at lines 37--42
+\OT1/cmr/bx/n/10 NTU-
+ []
+
+
+Overfull \hbox (16.04158pt too wide) in paragraph at lines 37--42
+\OT1/cmr/bx/n/10 BP
+ []
+
+
+Overfull \hbox (31.18039pt too wide) in paragraph at lines 37--42
+\OT1/cmr/bx/n/10 Build-
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 37--42
+\OT1/cmr/bx/n/10 ing 
+ []
+
+! Undefined control sequence.
+l.46         \cventry
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47     {P
+         rof. Zhan HongYan, President of Institute of Urban Science, NJU}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52       \begin{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 47--53
+[]Prof.
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53         \item{
+                 \textbf{Regional Planning of Jiangsu Mt.YouZi}\\
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (17.72908pt too wide) in paragraph at lines 53--58
+\OT1/cmr/bx/n/10 Re-
+ []
+
+
+Overfull \hbox (29.86787pt too wide) in paragraph at lines 53--58
+\OT1/cmr/bx/n/10 gional
+ []
+
+
+Overfull \hbox (26.86789pt too wide) in paragraph at lines 53--58
+\OT1/cmr/bx/n/10 Plan-
+ []
+
+
+Overfull \hbox (21.7221pt too wide) in paragraph at lines 53--58
+\OT1/cmr/bx/n/10 ning
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 53--58
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (37.79282pt too wide) in paragraph at lines 53--58
+\OT1/cmr/bx/n/10 Jiangsu
+ []
+
+
+Overfull \hbox (48.6803pt too wide) in paragraph at lines 53--58
+\OT1/cmr/bx/n/10 Mt.YouZi 
+ []
+
+! Undefined control sequence.
+l.61         \cventry
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62     {P
+         rof. Zhai XueWei, President of Institute of Social Psychology}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67       \begin{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 62--68
+[]Prof.
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68         \item{
+                 \textbf{Director of University Undergraduates Innovative Tr...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (15.84714pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 Di-
+ []
+
+
+Overfull \hbox (18.95131pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 rec-
+ []
+
+
+Overfull \hbox (14.95827pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 tor
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (22.26376pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 Uni-
+ []
+
+
+Overfull \hbox (19.5902pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 ver-
+ []
+
+
+Overfull \hbox (17.95267pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 sity
+ []
+
+
+Overfull \hbox (19.06934pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 Un-
+ []
+
+
+Overfull \hbox (20.22908pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 der-
+ []
+
+
+Overfull \hbox (26.29846pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 grad-
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 u-
+ []
+
+
+Overfull \hbox (19.86931pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 ates
+ []
+
+
+Overfull \hbox (14.58325pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 In-
+ []
+
+
+Overfull \hbox (15.97214pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 no-
+ []
+
+
+Overfull \hbox (14.85406pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 va-
+ []
+
+
+Overfull \hbox (18.68741pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 tive
+ []
+
+
+Overfull \hbox (30.78455pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 Train-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (22.18045pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 Pro-
+ []
+
+
+Overfull \hbox (25.65958pt too wide) in paragraph at lines 68--75
+\OT1/cmr/bx/n/10 gram 
+ []
+
+! Undefined control sequence.
+l.76      \cventry
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77     {P
+         rof. Peng & Ms Chen}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Misplaced alignment tab character &.
+l.77     {Prof. Peng &
+                     Ms Chen}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82       \begin{cvitems}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 77--83
+[]Prof.
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83         \item{
+                 \textbf{Director of Research on analysis and promotions of ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (15.84714pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 Di-
+ []
+
+
+Overfull \hbox (18.95131pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 rec-
+ []
+
+
+Overfull \hbox (14.95827pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 tor
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (17.72908pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 Re-
+ []
+
+
+Overfull \hbox (31.3137pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 search
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 on
+ []
+
+
+Overfull \hbox (24.59705pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 anal-
+ []
+
+
+Overfull \hbox (9.90273pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 y-
+ []
+
+
+Overfull \hbox (12.26657pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 sis
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (20.70824pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 pro-
+ []
+
+
+Overfull \hbox (19.16656pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 mo-
+ []
+
+
+Overfull \hbox (24.34152pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 tions
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 of
+ []
+
+
+Overfull \hbox (14.11935pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 so-
+ []
+
+
+Overfull \hbox (17.09016pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 cial
+ []
+
+
+Overfull \hbox (28.37486pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 work-
+ []
+
+
+Overfull \hbox (14.54298pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 ers’
+ []
+
+
+Overfull \hbox (20.06935pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 cur-
+ []
+
+
+Overfull \hbox (20.54852pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 rent
+ []
+
+
+Overfull \hbox (16.29158pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 liv-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 and
+ []
+
+
+Overfull \hbox (28.37486pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 work-
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 ing
+ []
+
+
+Overfull \hbox (21.08322pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 con-
+ []
+
+
+Overfull \hbox (13.4166pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 di-
+ []
+
+
+Overfull \hbox (24.34152pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 tions
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (37.59006pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 HouZa-
+ []
+
+
+Overfull \hbox (25.7707pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 iMen
+ []
+
+
+Overfull \hbox (30.61098pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 Street
+ []
+
+
+Overfull \hbox (9.58328pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 in
+ []
+
+
+Overfull \hbox (24.81235pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 Nan-
+ []
+
+
+Overfull \hbox (19.00685pt too wide) in paragraph at lines 83--85
+\OT1/cmr/bx/n/10 jing 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87       \end{cvitems}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{cventries}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \end{cventries}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> research_experience.tex
+                        
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 14 strings out of 495119
+ 100000,89155 words of node,token memory allocated 15750 words of node memory still in use:
+   138 hlist, 43 disc, 12 local_par, 1 dir, 540 glue, 21 kern, 101 penalty, 1591
+ glyph, 32 glue_spec nodes
+   avail lists: 2:12,3:1,4:32,5:3,7:50,8:1,10:31
+ 3678 multiletter control sequences out of 65536+600000
+ 15 fonts using 632831 bytes
+ 13i,1n,10p,255b,92s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!
